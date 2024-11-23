@@ -7,7 +7,7 @@ I am a DevOps and Cloud Computing student. I have some basic knowledge on fronte
 ## About Me
 
 - 🌍 I live in Bogotá, Colombia. I have a beautiful family, I love hanging out with them.
-- 📚 Currently, I am studying at Platzi, preparing myself to achieve my goals in DevOps and Cloud Engineering.
+- 📚 Currently, I am studying at Platzi, preparing myself to achieve my goals in DevOps and Cloud Computing.
 - ✈️ I love to travel, explore new places, and tasting the local cuisine. Fortunately, I have some experience with this.
 - 🎸 I am a musician, I like to play drums and guitar in my spare time. Let's jam sometime!
 
